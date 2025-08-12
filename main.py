@@ -19,9 +19,7 @@ Goodbye, and take care of yourselves.
 
 — A Lost Soul"""
 
-# Ana pencereyi oluştur ve gizle
 root = tk.Tk()
 root.withdraw()
 
-# Mesaj kutusunu göster
 messagebox.showinfo("---", message)
